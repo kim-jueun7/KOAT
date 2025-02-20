@@ -114,6 +114,7 @@ main {
 }
 .container #engineLink {
   background: url("../images/bottom_backIMG.png") no-repeat;
+  background-size: cover;
 }
 
 #view {
