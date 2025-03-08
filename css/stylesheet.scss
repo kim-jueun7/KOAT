@@ -243,7 +243,7 @@ main { height: 100vh; overflow: hidden;}
 			img{margin-left:30px; animation:waveHand 1s infinite ease-in-out alternate; //하단 캐릭터 움직이는 효과
 				transform-origin: center bottom; /* 회전 중심을 손목 부분으로 설정 */}
 		}
-		ul{display:flex; justify-content:space-between; margin-top:90px;
+		ul{display:flex; justify-content:space-between; margin-top:25px;
 			li{text-align:center;} 
 		}
 		.original{position:absolute; opacity:1; transition:opacity 0.3s ease-in-out;}
